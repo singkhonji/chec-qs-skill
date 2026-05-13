@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "chec-qs-skill",
+  "description": "CHEC team marketplace for Claude Code — construction QS tools, document processing, and project workflows",
+  "owner": {
+    "name": "singkhonji",
+    "email": "singkhon64@gmail.com"
+  },
+  "plugins": []
+}
