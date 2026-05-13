@@ -1,5 +1,7 @@
 # CHEC QS Skill — Team Marketplace
 
+> [ภาษาไทย](./README_TH.md)
+
 A public Claude Code marketplace for the CHEC team — construction QS tools, document processing, and project workflows. Add once, install individual plugins as needed.
 
 ## Add as Marketplace
